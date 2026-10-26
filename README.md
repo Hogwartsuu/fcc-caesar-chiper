@@ -1,4 +1,4 @@
-# fcc-caesar-chiper
+# fcc-caesar-cipher
 Caesar Cipher
 
 A beginner Python project that explores the Caesar cipher, a classical substitution cipher that shifts letters by a specified number of positions in the alphabet.
